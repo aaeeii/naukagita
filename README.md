@@ -1,3 +1,5 @@
-## GIHTHUB WERSJA1
+ GIHTHUB WERSJA1
 
-piszemy dalsza czesc kodu i testujemy
+piszemy kolejna czesc kodu i testujemy
+
+proba numer 3
