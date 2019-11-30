@@ -1,0 +1,1 @@
+## GIHTHUB WERSJA1
